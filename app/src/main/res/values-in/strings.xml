@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="change_language">Bahasa</string>
+    <string name="tab_text_1">TAYANG SEKARANG</string>
+    <string name="tab_text_2">AKAN DATANG</string>
+    <string name="tab_text_3">CARI</string>
+    <string name="btn_detail">DETAIL</string>
+    <string name="btn_share">BAGIKAN</string>
+    <string name="edittext_search_film">Masukkan nama film</string>
+    <string name="btn_search">Cari</string>
+    <string name="btn_favorite">Favorit</string>
+    <string name="btn_favorited">Favorit</string>
+    <string name="menu_favorite">Favorit</string>
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="add_widget">Tambahkan widget</string>
+    <string name="empty_text">DATA KOSONG</string>
+    <string name="notif_daily_title">Notifikasi Harian</string>
+    <string name="notif_daily_content">Katalog Film merindukanmu</string>
+    <string name="notif_is_released">rilis hari ini!</string>
+</resources>

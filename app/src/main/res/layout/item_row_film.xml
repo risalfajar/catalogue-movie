@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:paddingVertical="2dp"
+    android:padding="16dp">
+    <ImageView
+        android:id="@+id/img_gambar_film"
+        android:layout_width="79dp"
+        android:layout_height="match_parent"/>
+    <LinearLayout
+        android:paddingLeft="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="3"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tv_judul_film"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:text="Judul Film"
+            android:layout_weight="1"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/tv_deskripsi_film"
+            android:paddingTop="4dp"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1.2"
+            android:text="deskripsi"/>
+        <TextView
+            android:id="@+id/tv_tanggal_film"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="tanggal"/>
+    </LinearLayout>
+</LinearLayout>

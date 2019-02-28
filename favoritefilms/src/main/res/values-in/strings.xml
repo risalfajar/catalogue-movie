@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Film Favorit</string>
+    <string name="btn_detail">DETAIL</string>
+    <string name="btn_share">BAGIKAN</string>
+</resources>
