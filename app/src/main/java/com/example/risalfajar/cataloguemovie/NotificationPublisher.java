@@ -44,6 +44,9 @@ public class NotificationPublisher extends BroadcastReceiver {
     private List<FilmItems> releasedToday;
     private Context context;
 
+    public NotificationPublisher(){
+    }
+
     public NotificationPublisher(Context context) {
         this.context = context;
     }
