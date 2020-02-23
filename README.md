@@ -13,6 +13,11 @@ Created using Java and API from OMDB.
 * Change language
 
 ## Screenshots
+### Main App
 ![Main](https://risalfajar.github.io/img/portfolio/Movie%20Catalog/Image1.jpeg)
+
+### Search
 ![Search](https://risalfajar.github.io/img/portfolio/Movie%20Catalog/Image2.jpeg)
+
+### View movie
 ![Description](https://risalfajar.github.io/img/portfolio/Movie%20Catalog/Image3.jpeg)
